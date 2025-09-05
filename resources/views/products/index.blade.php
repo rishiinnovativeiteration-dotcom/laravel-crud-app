@@ -16,6 +16,7 @@
 </head>
 
 <body>
+    <h1>hello</h1>
     <h1 class="text-center mt-2 ">Product List</h1>
     <a href="{{ route('products.create') }}">Add New Product</a>
 
